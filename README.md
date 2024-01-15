@@ -34,6 +34,10 @@
 
     $ npm i --save react react-dom
 
+## Nota: significado de los tres puntos (...)
+
+- En las secciones de codigo que tienen los tres puntos (...) se indica que puede o no haber otras lineas de codigo en esa seccion y no deben ser agregados al codigo final. 
+
 ## Agregar en el archivo .babelrc
 
     {
